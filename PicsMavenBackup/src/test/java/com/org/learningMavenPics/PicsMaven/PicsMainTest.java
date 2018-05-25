@@ -84,4 +84,5 @@ public class PicsMainTest {
 	}
 	
 	//Testing synchronisation
+	//Fetch test
 }
