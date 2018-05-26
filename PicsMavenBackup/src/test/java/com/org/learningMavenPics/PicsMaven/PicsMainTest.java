@@ -86,4 +86,5 @@ public class PicsMainTest {
 	//Testing synchronisation
 	//Fetch test
 	//Testing fourth commit
+	//Updations have been reflected successfully in GIT- 5th commit
 }
